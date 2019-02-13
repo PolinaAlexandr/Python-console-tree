@@ -1,4 +1,4 @@
 # Console tree 
-- show your folder system 
-- search for git repos
-(os module training)
+- Show git repositories in file system
+- Choose what to use pythongit or os
+- Add graphic thee view 
