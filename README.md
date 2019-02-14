@@ -1,4 +1,5 @@
 # Console tree 
 - Show git repositories in file system
-- Choose what to use pythongit or os
+    - Os.walk() method
+    - git system call
 - Add graphic thee view 
