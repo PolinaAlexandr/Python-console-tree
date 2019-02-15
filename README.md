@@ -2,6 +2,7 @@
 - Show git repositories in file system
     - Choose root directory with os.path.join and sys.argv
     - Find directories with git repos Os.walk() method
+    - Maybe we will need asyncio(???)
     - Skip .git repositories show their root directories  
     - Show git repo statistic for every root folder 
     - Choose the type of statistics (git system call variaty (git rev-list --count HEAD, git shortlog -s -n, git log --graph )( topdown=True))
