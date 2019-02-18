@@ -5,6 +5,7 @@
     - Skip .git repositories show their root directories  
     - Show git repo statistic for every root folder
     - Choose the type of statistics (git system call variaty (git rev-list --count HEAD, git shortlog -s -n, git log --graph )( topdown=True))
+    - For now statistic is avaible just for local branch in project's home directory (need to fix it)
 - Add graphic thee view 
 
 How to run: python3 + console_tree.py(for cheking all folder system) + chosen directory name(for checking one chosen directory)
