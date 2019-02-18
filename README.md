@@ -7,4 +7,4 @@
     - Choose the type of statistics (git system call variaty (git rev-list --count HEAD, git shortlog -s -n, git log --graph )( topdown=True))
 - Add graphic thee view 
 
-How to run: python3 + console_tree.py + chosen directory name
+How to run: python3 + console_tree.py(for cheking all folder system) + chosen directory name(for checking one chosen directory)
